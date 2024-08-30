@@ -1,0 +1,3 @@
+from funct import *
+
+wrapperFromOxatisToBigCommerce()
